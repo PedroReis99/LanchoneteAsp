@@ -16,5 +16,10 @@ namespace Lanchonete.Models
         {//Quando o metodo OnConfiguring é declardo aqui, só é preciso chama-lo no Startup.cs
             optionsBuilder.UseSqlServer(@"Server=(localdb)\mssqllocaldb;Database=Lanchonete;Integrated Security=True");
         }
+
+        public void SetModified(Lanche lanche)
+        {
+            throw new NotImplementedException();
+        }
     }
 }

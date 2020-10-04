@@ -11,6 +11,6 @@ namespace Lanchonete.Models
         public string Nome { get; set; }
         public decimal Preco { get; set; }
 
-        public List<Combo> Combos { get; set; }
+        //public List<Combo> Combos { get; set; }
     }
 }

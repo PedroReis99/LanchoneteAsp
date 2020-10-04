@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8blK0QCZ0490XYAxWbMnECjz7zoNqZzn59BY1uwFDgkWd3SNnQ0Jget8WleMT1i5XgxmSi0py5Gh8Xh7V0D0PA==",
+  "dgSpecHash": "p8jV4ZsJgmrHEcPPiIpgpIzBKoQr2DUpkmU5sJ0K66H/fC/sGJt0sI5ElTQcRB9DVKxMsyZv162Gxo57uLx+Iw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Dell\\Desktop\\Cursos\\Digital Inovation One\\ASP .NET\\Lanchonete v1\\Lanchonete\\Lanchonete\\Lanchonete.csproj",
+  "projectFilePath": "C:\\Users\\Dell\\Desktop\\Lanchonete\\Lanchonete\\Lanchonete.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.aspnetcore.razor\\2.2.0\\microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",

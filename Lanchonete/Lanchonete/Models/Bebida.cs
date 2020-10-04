@@ -10,6 +10,6 @@ namespace Lanchonete.Models
         public int Id { get; set; }
         public string Nome { get; set; }
 
-        public List<Combo> Combos { get; set; }
+        //public List<Combo> Combos { get; set; }
     }
 }
